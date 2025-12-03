@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OpenAsAdmin": {
+      "commandName": "Project",
+      "commandLineArgs": "install -n 以管理员身份打开"
+    }
+  }
+}
